@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<root>
+  <game>CryoFall</game>
+  <id>realtime</id>
+  <title>Real Time</title>
+  <author>AlexRUS</author>
+  <description>Display real time</description>
+  <version>0.0.2</version>
+  <updated>25.07.2020</updated>
+  <!-- Mod type: 1 - server, 2 - client-server, 3 - client -->
+  <!-- Please note: mods of type 1 and 2 are ignored
+                    when you're connecting to the server which is missing them -->
+  <modtype>3</modtype>
+</root>
